@@ -9,6 +9,9 @@ nav {
   font-family: 'Montserrat', sans-serif;
   margin-left: 25px;
 }
+.navbar-brand:hover {
+  color: #e2cfcb;
+}
 
 .nav-link {
   color: #888785;
